@@ -1,0 +1,9 @@
+accelerate==0.18.0
+bitsandbytes==0.43.3
+datasets==2.12.0
+huggingface_hub==0.20.1
+numpy==1.24.3
+pandas==2.0.1
+torch==1.12.0+cu102
+tqdm==4.65.0
+transformers==4.28.1
