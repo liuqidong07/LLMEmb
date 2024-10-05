@@ -64,5 +64,10 @@ bash experiments/<yelp/fashion/beauty>/rat/llmemb.bash
 If the code and the paper are useful for you, it is appreciable to cite our paper:
 
 ```
-
+@article{liu2024large,
+  title={Large Language Model Empowered Embedding Generator for Sequential Recommendation},
+  author={Liu, Qidong and Wu, Xian and Wang, Wanyu and Wang, Yejing and Zhu, Yuanshao and Zhao, Xiangyu and Tian, Feng and Zheng, Yefeng},
+  journal={arXiv preprint arXiv:2409.19925},
+  year={2024}
+}
 ```
