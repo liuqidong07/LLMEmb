@@ -39,7 +39,7 @@ bash experiments/<yelp/fashion/beauty>/scft/avg.bash
 
 4. Then, run the script `/results/convert.ipynb` to convert and get the dimension-reduced LLM embedding. The derived embeddings will be saved to `/data/<yelp/fashion/beauty>/handled/default_pca.pkl`
 
-⭐️ To ease the reproducibility of our paper, we also upload the derived LLM embeddings to this [link](https://ufile.io/2v2c6tqa). Please rename them before usage.
+⭐️ To ease the reproducibility of our paper, we also upload the derived LLM embeddings to this [link](https://drive.google.com/file/d/18xAg2azhZlg24GcCOBrhmKQ7gGAXDWm1/view?usp=drive_link). Please rename them before usage.
 
 ## Stage 2: Recommendation Adaptation Training (RAT)
 
